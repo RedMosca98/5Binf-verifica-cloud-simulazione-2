@@ -1,3 +1,9 @@
 {
-    
+    "cardList":[{
+        "imgUrl":"img/moodle.png",
+        "title":"Moodle",
+        "desc":"Moodle della scuola, con il materiale dei docenti e la consegna dei compiti in classe online.",
+        "buttonUrl":"moodle"
+
+    }]
 }
